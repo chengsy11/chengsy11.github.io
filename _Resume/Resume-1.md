@@ -1,11 +1,8 @@
 ---
 title: "Shuangyu cheng"
 excerpt: ""
-collection: portfolio
+collection: Resume
 ---
-
-
-
 SHUANGYU CHENG
   Email: chengsy20@mails.jlu.edu.cn|  +86 1.351.441.8994  
 Jilin University, Changchun, Jilin, China 130021
