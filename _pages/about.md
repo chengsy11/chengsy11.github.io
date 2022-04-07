@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "ps"
 excerpt: "About me"
