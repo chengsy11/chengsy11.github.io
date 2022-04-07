@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Hello everyone!
 I am Shuangyu Cheng, a clinical master from Jilin University. I enjoy practicing and studying.
 
