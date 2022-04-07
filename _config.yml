@@ -178,10 +178,10 @@ collections:
  # teaching:
   #  output: true
    # permalink: /:collection/:path/
-  Publications:
+  publications:
     output: true
     permalink: /:collection/:path/
-  Resume:
+  resume:
     output: true
     permalink: /:collection/:path/
   #talks:
@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: Posts
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -208,7 +208,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: Publications
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -217,7 +217,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Resume
+      type: resume
     values:
       layout: single
       author_profile: true
