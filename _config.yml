@@ -192,7 +192,16 @@ collections:
 # Defaults
 defaults:
   # _posts
- 
+  - scope:
+      path: ""
+      type: Posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
 
   # _teaching
