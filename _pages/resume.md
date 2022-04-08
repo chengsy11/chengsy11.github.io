@@ -27,32 +27,31 @@ M.M. Endocrinology and Metabolism
 
 ## Work experience
 * Taihe Hospital (Grade 3, Grade A) – Shiyan, China                                                       2018.09 – 2020.01
->Internship
+<br>Internship
   * Familiar with and master the diagnosis and treatment routine and treatment principles of common diseases in various   departments; Timely complete the writing of medical documents.
   * Master physical examination, ecg and other auxiliary examination procedures; Familiar with dressing change, dressing, stitches removal and other basic clinical operations.
   
 
 * Research team of cardiac stem cell research – Shiyan, China		                                          2018.12 – 2019.04
->Research Assistant
+<br>Research Assistant
   * Proficient in the preparation of SD rats "MI myocardial infarction model", "common carotid artery balloon injury model" and female rats’ "ovariectomized model" and other animal models.
   * Participated in co-obtaining the provincial scientific research project "Study on the role and mechanism of NANOG in the regulation of C-KIT + myocardial stem cell differentiation in hypertension".
   * With high scientific research quality and skills; familiar with animal experiments; participated in project design and paper writing, and completed experiments with high quality.
 
 * Hubei Medical College "rainbow" first aid volunteer service team – Shiyan, China	                      2015.01 – 2017.12
->Main contributor
+<br>Main contributor
   * Proficient in CPR, Heimlich, fracture dressing, stretcher transfer and other important first aid skills.
   * Actively participated in various volunteer service activities and first aid skills, clinical knowledge and skills competitions and won awards.
 
 
 ## Publications
 *  Changes of cysteine-rich protein 61 expression in patients with atherosclerosis and its clinical significance
-  <br>** 'Wang Heyuan, Cheng Shuangyu' **,  Wang Ming  
-  
-  <br>Chinese Journal of Laboratory Diagnosis
+<br>  Wang Heyuan, Cheng Shuangyu,  Wang Ming  
+<br>Chinese Journal of Laboratory Diagnosis
+
 * Analysis of islet function in insulin autoimmune syndrome
-  <br>** 'Cheng Shuangyu' **, Jing zhe, Wang Heyuan  
-  
-  <br> The 20th National Conference of Endocrinology, Chinese Medical Association
+<br>  Cheng Shuangyu, Jing zhe, Wang Heyuan  
+<br> The 20th National Conference of Endocrinology, Chinese Medical Association
 
 ### SKILLS & INTERESTS
 *	Skills: PubMed, Stata, Endnote, Review Manager
