@@ -9,11 +9,11 @@ venue: 'The 20th National Conference of Endocrinology, Chinese Medical Associati
 ---
 
 
-This is the paper poster I made for our accepted papers
-======
+#### This is the paper poster I made for our accepted papers
 
 
-* Analysis of islet function in insulin autoimmune syndrome
+
+##### Analysis of islet function in insulin autoimmune syndrome
 
 ![avatar](http://chengsy11.github.io/files/poster.jpeg)
 
