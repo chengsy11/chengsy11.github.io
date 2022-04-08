@@ -13,6 +13,8 @@ date: 2021-02-01
 ======
 This is the paper poster I made for our accepted papers
 ======
+
+
 * Analysis of islet function in insulin autoimmune syndrome
 
 ![avatar](http://chengsy11.github.io/files/poster.jpeg)
