@@ -47,11 +47,11 @@ M.M. Endocrinology and Metabolism
 ## PUBLICATIONS
 *  Changes of cysteine-rich protein 61 expression in patients with atherosclerosis and its clinical significance
 <br>  <u>Wang Heyuan, Cheng Shuangyu</u>,  Wang Ming  
-  Chinese Journal of Laboratory Diagnosis
+Chinese Journal of Laboratory Diagnosis
 
 * Analysis of islet function in insulin autoimmune syndrome
 <br>  <u>Cheng Shuangyu</u>, Jing zhe, Wang Heyuan  
-  The 20th National Conference of Endocrinology, Chinese Medical Association
+The 20th National Conference of Endocrinology, Chinese Medical Association
 
 
 ### AWARDS
