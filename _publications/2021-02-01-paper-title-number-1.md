@@ -15,5 +15,5 @@ paperurl: 'http://chengsy11.github.io/files/paper1.pdf'
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <span id="busuanzi_container_page_pv">
-  views<span id="busuanzi_value_page_pv"></span>
+  views    <span id="busuanzi_value_page_pv"></span>
 </span>
