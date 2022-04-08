@@ -14,7 +14,7 @@ SHUANGYU CHENG
 <br>Jilin University, Changchun, Jilin, China 130021
 </div>
 
-## Education
+## EDUCATION
 
 * The First Clinical College, Hubei University of Medicine – Shiyan, China	2015.09 – 2020.06
 M.B.  Clinical medicine 
@@ -25,7 +25,7 @@ M.M. Endocrinology and Metabolism
 
 
 
-## Work experience
+## EXPERIENCES
 * Taihe Hospital (Grade 3, Grade A) – Shiyan, China                                                       2018.09 – 2020.01
 <br>Internship
   * Familiar with and master the diagnosis and treatment routine and treatment principles of common diseases in various   departments; Timely complete the writing of medical documents.
@@ -44,14 +44,21 @@ M.M. Endocrinology and Metabolism
   * Actively participated in various volunteer service activities and first aid skills, clinical knowledge and skills competitions and won awards.
 
 
-## Publications
+## PUBLICATIONS
 *  Changes of cysteine-rich protein 61 expression in patients with atherosclerosis and its clinical significance
-<br>  Wang Heyuan, Cheng Shuangyu,  Wang Ming  
-<br>Chinese Journal of Laboratory Diagnosis
+<br>  <u>Wang Heyuan, Cheng Shuangyu</u>,  Wang Ming  
+  Chinese Journal of Laboratory Diagnosis
 
 * Analysis of islet function in insulin autoimmune syndrome
-<br>  Cheng Shuangyu, Jing zhe, Wang Heyuan  
-<br> The 20th National Conference of Endocrinology, Chinese Medical Association
+<br>  <u>Cheng Shuangyu</u>, Jing zhe, Wang Heyuan  
+  The 20th National Conference of Endocrinology, Chinese Medical Association
+
+
+### AWARDS
+* Hubei University of Medicine scholarships for academic excellence (2015-2018): University Third Scholarship three times. 
+* Third prize of first-aid skill competition of hospital level (2016.10)
+* Excellence award of clinical knowledge skill competition in Hubei University of Medicine (2018.04)
+
 
 ### SKILLS & INTERESTS
 *	Skills: PubMed, Stata, Endnote, Review Manager
