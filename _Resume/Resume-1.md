@@ -37,13 +37,13 @@ Main contributor
 
 •	 Changes of cysteine-rich protein 61 expression in patients with atherosclerosis and its clinical significance
   
-  ** 'Wang Heyuan1 CHENG Shuangyu' **  Wang Ming  
+  ** 'Wang Heyuan Cheng Shuangyu' **  Wang Ming  
   
   Chinese Journal of Laboratory Diagnosis
 
 •	Analysis of islet function in insulin autoimmune syndrome
   
-  'CHENG Shuangyu', JING zhe, Wang Heyuan  
+  'Cheng Shuangyu', Jing zhe, Wang Heyuan  
   
   The 20th National Conference of Endocrinology, Chinese Medical Association
 
@@ -56,10 +56,4 @@ Main contributor
 ### SKILLS & INTERESTS
 
 •	Skills: PubMed, Stata, Endnote, Review Manager
-•	Interests: Huge fun of singing, loves reading
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    
-<span id="busuanzi_container_page_pv">
-  views<span id="busuanzi_value_page_pv"></span>
-</span>
+•	Interests: Huge fun of singing, loves reading 
