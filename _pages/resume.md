@@ -11,7 +11,7 @@ redirect_from:
 <div align="center">
 <b>SHUANGYU CHENG</b>
 <br><b>Email: chengsy20@mails.jlu.edu.cn|  +86 1.351.441.8994  </b>
-<br><b>SJilin University, Changchun, Jilin, China 130021</b>
+<br><b>Jilin University, Changchun, Jilin, China 130021</b>
 </div>
 
 ## EDUCATION
