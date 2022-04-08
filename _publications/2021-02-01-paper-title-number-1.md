@@ -1,7 +1,7 @@
 ---
 title: "Changes of cysteine-rich protein 61 expression in patients with atherosclerosis and its clinical significance1"
 collection: Publications
-permalink: /Publications/29-10-01-paper-title-number-1
+permalink: /Publications/21-02-01-paper-title-number-1
 excerpt: ''
 date: 2021-02-01
 venue: 'Chinese Journal of Laboratory Diagnosis'

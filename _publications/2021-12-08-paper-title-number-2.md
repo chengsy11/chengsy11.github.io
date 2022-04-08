@@ -1,7 +1,7 @@
 ---
 title: "Analysis of islet function in insulin autoimmune syndrome"
 collection: Publications
-permalink: /Publications/29-10-01-paper-title-number-2
+permalink: /Publications/21-12-08-paper-title-number-2
 excerpt: ''
 date: 2021-12-08
 venue: 'The 20th National Conference of Endocrinology, Chinese Medical Association'
