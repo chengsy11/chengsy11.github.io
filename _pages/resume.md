@@ -14,7 +14,7 @@ SHUANGYU CHENG
 <br>Jilin University, Changchun, Jilin, China 130021
 </div>
 
-##### Education
+## Education
 
 * The First Clinical College, Hubei University of Medicine – Shiyan, China	2015.09 – 2020.06
 M.B.  Clinical medicine 
@@ -25,7 +25,7 @@ M.M. Endocrinology and Metabolism
 
 
 
-##### Work experience
+## Work experience
 * Taihe Hospital (Grade 3, Grade A) – Shiyan, China                                                       2018.09 – 2020.01
 >Internship
   * Familiar with and master the diagnosis and treatment routine and treatment principles of common diseases in various   departments; Timely complete the writing of medical documents.
@@ -44,7 +44,7 @@ M.M. Endocrinology and Metabolism
   * Actively participated in various volunteer service activities and first aid skills, clinical knowledge and skills competitions and won awards.
 
 
-##### Publications
+## Publications
 *  Changes of cysteine-rich protein 61 expression in patients with atherosclerosis and its clinical significance
   <br>** 'Wang Heyuan, Cheng Shuangyu' **,  Wang Ming  
   
@@ -54,7 +54,7 @@ M.M. Endocrinology and Metabolism
   
   <br> The 20th National Conference of Endocrinology, Chinese Medical Association
 
-##### SKILLS & INTERESTS
+### SKILLS & INTERESTS
 *	Skills: PubMed, Stata, Endnote, Review Manager
 *	Interests: Huge fun of singing, loves reading 
 
