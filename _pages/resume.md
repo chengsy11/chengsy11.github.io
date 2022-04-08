@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -54,13 +54,13 @@ Chinese Journal of Laboratory Diagnosis
 The 20th National Conference of Endocrinology, Chinese Medical Association
 
 
-### AWARDS
+## AWARDS
 * Hubei University of Medicine scholarships for academic excellence (2015-2018): University Third Scholarship three times. 
 * Third prize of first-aid skill competition of hospital level (2016.10)
 * Excellence award of clinical knowledge skill competition in Hubei University of Medicine (2018.04)
 
 
-### SKILLS & INTERESTS
+## SKILLS & INTERESTS
 *	Skills: PubMed, Stata, Endnote, Review Manager
 *	Interests: Huge fun of singing, loves reading 
 
