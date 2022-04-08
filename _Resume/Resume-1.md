@@ -4,11 +4,10 @@ excerpt: ""
 collection: Resume
 ---
 SHUANGYU CHENG
-  Email: chengsy20@mails.jlu.edu.cn|  +86 1.351.441.8994  
+Email: chengsy20@mails.jlu.edu.cn|  +86 1.351.441.8994  
 Jilin University, Changchun, Jilin, China 130021
 
-EDUCATION
-
+### EDUCATION
 The First Clinical College, Hubei University of Medicine – Shiyan, China	2015.09 – 2020.06
 M.B.  Clinical medicine 
 Distinguished Physician Class
@@ -16,7 +15,7 @@ Distinguished Physician Class
 Bethune First Clinical College, Jilin University – Changchun, China	2020.09 – current
 M.M. Endocrinology and Metabolism
 
-EXPERIENCES
+### EXPERIENCES
 
 Taihe Hospital (Grade 3, Grade A) – Shiyan, China	2018.09 – 2020.01
 Internship
@@ -34,7 +33,7 @@ Main contributor
 •	Proficient in CPR, Heimlich, fracture dressing, stretcher transfer and other important first aid skills.
 •	Actively participated in various volunteer service activities and first aid skills, clinical knowledge and skills competitions and won awards.
 
-PAPERS
+### Publications
 
 •	 Changes of cysteine-rich protein 61 expression in patients with atherosclerosis and its clinical significance
      Wang Heyuan1 CHENG Shuangyu1 Wang Ming  
@@ -44,13 +43,13 @@ PAPERS
 CHENG Shuangyu1, JING zhe, Wang Heyuan  
 The 20th National Conference of Endocrinology, Chinese Medical Association
 
-AWARDS
+### AWARDS
 
 •	Hubei University of Medicine scholarships for academic excellence (2015-2018): University Third Scholarship three times. 
 •	Third prize of first-aid skill competition of hospital level (2016.10)
 •	Excellence award of clinical knowledge skill competition in Hubei University of Medicine (2018.04)
 
-SKILLS & INTERESTS
+### SKILLS & INTERESTS
 
 •	Skills: PubMed, Stata, Endnote, Review Manager
 •	Interests: Huge fun of singing, loves reading
