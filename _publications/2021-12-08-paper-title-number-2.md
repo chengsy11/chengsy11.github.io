@@ -9,8 +9,6 @@ date: 2021-02-01
 ---
 
 
-
-======
 This is the paper poster I made for our accepted papers
 ======
 
@@ -19,4 +17,5 @@ This is the paper poster I made for our accepted papers
 
 ![avatar](http://chengsy11.github.io/files/poster.jpeg)
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 Total reading<span id="busuanzi_value_page_pv"></span>

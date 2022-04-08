@@ -55,4 +55,6 @@ SKILLS & INTERESTS
 •	Skills: PubMed, Stata, Endnote, Review Manager
 •	Interests: Huge fun of singing, loves reading
 
-Total reading<span id="busuanzi_value_page_pv"></span>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    
+  Total reading<span id="busuanzi_value_page_pv"></span>
