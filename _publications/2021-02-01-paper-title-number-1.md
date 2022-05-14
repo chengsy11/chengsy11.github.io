@@ -10,6 +10,4 @@ paperurl: 'http://chengsy11.github.io/files/paper1.pdf'
 ---
 
 
-[Download paper here](http://chengsy11.github.io/files/paper1.pdf)
-
-
+[Download paper here(Translated from our Chinese version)](http://chengsy11.github.io/files/paper1.pdf)
